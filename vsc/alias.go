@@ -1,4 +1,4 @@
-package core
+package vsc
 
 type (
 	ServiceType = string
